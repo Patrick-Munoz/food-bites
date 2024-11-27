@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --background-color: #F9FAFF;
+    --primary-color: #FFC610;
+    --secondary-color: #4285F4;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'canva-sans', sans-serif;
+}
+
+body {
+    height: 100vh;
+}

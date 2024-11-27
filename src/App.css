@@ -1,0 +1,14 @@
+@import "./index.css";
+
+body {
+    background-color: var(--background-color);
+    padding: .75rem;
+}
+
+.button {
+    background-color: var(--secondary-color);
+}
+
+.text-primary-color {
+    color: var(--primary-color);
+}
