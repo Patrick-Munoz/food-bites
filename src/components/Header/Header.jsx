@@ -1,4 +1,3 @@
-import "./Header.css";
 import PurchaseBtn from "../PurchaseBtn/PurchaseBtn";
 import toggleNav from "./headerFunctions";
 
